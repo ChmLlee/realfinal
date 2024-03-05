@@ -14,3 +14,5 @@ login 기능 개발
 
 findid branch
 findpw branch
+
+git revert test

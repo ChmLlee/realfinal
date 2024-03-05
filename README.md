@@ -13,9 +13,13 @@ login 기능 개발
 >>>>>>> singin
 
 findid branch
+<<<<<<< HEAD
 findpw branch
 
 git revert test
 
 1.0.1 end
 --------
+=======
+findpw branch
+>>>>>>> 5aac2c2 (Revert "test")
